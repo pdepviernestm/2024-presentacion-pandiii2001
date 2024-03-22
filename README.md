@@ -1,7 +1,8 @@
 # presentacion-
+ Hola me llamo ivan Lopez
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
+
+
 - Realicen algun cambio.
 - Suban los nuevos cambios.
 - Compartan el link por discord
